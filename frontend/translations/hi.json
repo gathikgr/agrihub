@@ -1,0 +1,32 @@
+{
+  "app": { "title": "एग्रीसिंक" },
+  "common": { "loading": "लोड हो रहा है..." },
+  "nav": {
+    "farmer": "किसान",
+    "buyer": "खरीदार",
+    "transporter": "परिवहन",
+    "storage": "भंडारण",
+    "admin": "एडमिन"
+  },
+  "farmer": {
+    "overview": "किसान डैशबोर्ड",
+    "cropStatus": "फसल स्थिति",
+    "healthy": "स्वस्थ",
+    "daysToHarvest": "कटाई तक दिन",
+    "weather": "मौसम",
+    "mandiPrice": "मंडी मूल्य",
+    "aiRecommendation": "AI निर्णय सहायता",
+    "sellStore": "बेचें / स्टोर सिफारिश",
+    "sellFlow": "फसल बिक्री फ्लो",
+    "videoUpload": "फसल वीडियो अपलोड करें",
+    "expenses": "खर्च सारांश",
+    "transporters": "नजदीकी परिवहन",
+    "storageProviders": "नजदीकी भंडारण",
+    "profitEstimate": "लाभ अनुमान"
+  },
+  "buyer": { "title": "खरीदार डैशबोर्ड", "approvedListings": "स्वीकृत लिस्टिंग", "activeOrders": "सक्रिय ऑर्डर", "orderHistory": "ऑर्डर इतिहास" },
+  "transporter": { "title": "परिवहन डैशबोर्ड", "requests": "डिलीवरी अनुरोध", "capacity": "क्षमता", "deliveries": "पूर्ण डिलीवरी" },
+  "storage": { "title": "भंडारण डैशबोर्ड", "bookings": "बुकिंग अनुरोध", "occupancy": "उपयोग", "revenue": "राजस्व" },
+  "admin": { "title": "एडमिन डैशबोर्ड", "userApprovals": "यूज़र अनुमोदन", "listingApprovals": "लिस्टिंग अनुमोदन", "transactions": "लेनदेन", "aiOutputs": "AI आउटपुट" },
+  "auth": { "title": "सुरक्षित लॉगिन", "stepper": "चरण 1: फोन सत्यापन · चरण 2: भूमिका जाँच · चरण 3: प्रोफाइल पूरा करें" }
+}
