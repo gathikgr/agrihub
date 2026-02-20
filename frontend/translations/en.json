@@ -1,0 +1,75 @@
+{
+  "app": {
+    "title": "AgriSync"
+  },
+  "common": {
+    "loading": "Loading..."
+  },
+  "nav": {
+    "farmer": "Farmer",
+    "buyer": "Buyer",
+    "transporter": "Transport",
+    "storage": "Storage",
+    "admin": "Admin"
+  },
+  "farmer": {
+    "overview": "Farmer Dashboard",
+    "cropStatus": "Crop Status",
+    "healthy": "Healthy",
+    "daysToHarvest": "Days to Harvest",
+    "weather": "Weather",
+    "mandiPrice": "Mandi Price",
+    "aiRecommendation": "AI Decision Support",
+    "sellStore": "Sell / Store Recommendation",
+    "sellFlow": "Sell Crop Flow",
+    "videoUpload": "Upload crop quality video",
+    "expenses": "Expense Summary",
+    "transporters": "Nearby Transporters",
+    "storageProviders": "Nearby Storage",
+    "profitEstimate": "Profit Estimate"
+  },
+  "buyer": {
+    "title": "Buyer Dashboard",
+    "approvedListings": "Approved Listings",
+    "activeOrders": "Active Orders",
+    "orderHistory": "Order History"
+  },
+  "transporter": {
+    "title": "Transporter Dashboard",
+    "requests": "Delivery Requests",
+    "capacity": "Assigned Capacity",
+    "deliveries": "Deliveries Confirmed"
+  },
+  "storage": {
+    "title": "Storage Dashboard",
+    "bookings": "Booking Requests",
+    "occupancy": "Occupancy",
+    "revenue": "Revenue"
+  },
+  "admin": {
+    "title": "Admin Dashboard",
+    "userApprovals": "User Approvals",
+    "listingApprovals": "Listing Approvals",
+    "transactions": "Transactions",
+    "aiOutputs": "AI Outputs"
+  },
+  "auth": {
+    "title": "Secure Login",
+    "stepper": "Step 1: Verify phone · Step 2: Role check · Step 3: Profile completion",
+    "role": "Select role",
+    "demoLogin": "Continue to dashboard"
+  },
+  "roles": {
+    "farmer": "Farmer",
+    "buyer": "Buyer",
+    "transporter": "Transporter",
+    "storage_provider": "Storage Provider",
+    "admin": "Admin"
+  },
+  "crops": {
+    "wheat": "Wheat"
+  },
+  "locations": {
+    "defaultCity": "Hyderabad"
+  }
+}
