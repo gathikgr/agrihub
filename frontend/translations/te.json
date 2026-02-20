@@ -1,0 +1,32 @@
+{
+  "app": { "title": "అగ్రిసింక్" },
+  "common": { "loading": "లోడ్ అవుతోంది..." },
+  "nav": {
+    "farmer": "రైతు",
+    "buyer": "కొనుగోలుదారు",
+    "transporter": "రవాణా",
+    "storage": "నిల్వ",
+    "admin": "అడ్మిన్"
+  },
+  "farmer": {
+    "overview": "రైతు డ్యాష్‌బోర్డ్",
+    "cropStatus": "పంట స్థితి",
+    "healthy": "ఆరోగ్యంగా ఉంది",
+    "daysToHarvest": "పంట కోతకు రోజులు",
+    "weather": "వాతావరణం",
+    "mandiPrice": "మండి ధర",
+    "aiRecommendation": "AI నిర్ణయ సహాయం",
+    "sellStore": "అమ్మకం / నిల్వ సిఫారసు",
+    "sellFlow": "పంట అమ్మకం ప్రవాహం",
+    "videoUpload": "పంట వీడియో అప్‌లోడ్ చేయండి",
+    "expenses": "ఖర్చుల సారాంశం",
+    "transporters": "సమీప రవాణా",
+    "storageProviders": "సమీప నిల్వ",
+    "profitEstimate": "లాభ అంచనా"
+  },
+  "buyer": { "title": "కొనుగోలుదారు డ్యాష్‌బోర్డ్", "approvedListings": "ఆమోదించిన జాబితాలు", "activeOrders": "సక్రియ ఆర్డర్లు", "orderHistory": "ఆర్డర్ చరిత్ర" },
+  "transporter": { "title": "రవాణా డ్యాష్‌బోర్డ్", "requests": "డెలివరీ అభ్యర్థనలు", "capacity": "కేటాయించిన సామర్థ్యం", "deliveries": "పూర్తయిన డెలివరీలు" },
+  "storage": { "title": "నిల్వ డ్యాష్‌బోర్డ్", "bookings": "బుకింగ్ అభ్యర్థనలు", "occupancy": "ఆక్యుపెన్సీ", "revenue": "ఆదాయం" },
+  "admin": { "title": "అడ్మిన్ డ్యాష్‌బోర్డ్", "userApprovals": "వినియోగదారు ఆమోదాలు", "listingApprovals": "లిస్టింగ్ ఆమోదాలు", "transactions": "లావాదేవీలు", "aiOutputs": "AI ఫలితాలు" },
+  "auth": { "title": "సురక్షిత లాగిన్", "stepper": "దశ 1: ఫోన్ ధృవీకరణ · దశ 2: పాత్ర తనిఖీ · దశ 3: ప్రొఫైల్ పూర్తి" }
+}
